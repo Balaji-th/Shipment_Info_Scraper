@@ -1,0 +1,7 @@
+flask
+python-dotenv
+langchain
+langchain-groq
+playwright
+beautifulsoup4
+langgraph
